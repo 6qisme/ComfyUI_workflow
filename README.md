@@ -7,9 +7,9 @@ This repository documents my research and experiments on ComfyUI workflows.
 
 這個專項是我研究 ComfyUI 的工作流程記錄。
 
-- 工作流的教學影片頻道（中文）："My YouTube Channel"
-- 工作流的教學影片頻道（英文）："My YouTube Channel"
-- 文字版（中文）："My Substack"
+- 工作流的教學影片頻道（中文）：
+- 工作流的教學影片頻道（英文）：
+- 文字版（中文）：
 
 ---
 
@@ -33,9 +33,9 @@ I'm LIU Q, an AI technology enthusiast, programmer, and art creator.
 
 This project documents my research on ComfyUI workflows.
 
-- Workflow tutorial video channel (Chinese): "My YouTube Channel"
-- Workflow tutorial video channel (English): "My YouTube Channel"
-- Text version (Chinese): "My Substack"
+- Workflow tutorial video channel (Chinese): 
+- Workflow tutorial video channel (English): 
+- Text version (Chinese): 
 
 ---
 
